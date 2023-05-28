@@ -1,2 +1,3 @@
 # Hello-World
-getting stared with GitHub repository
+Getting stared with GitHub repository
+This is useful for beginners to Github
